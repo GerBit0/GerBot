@@ -1,0 +1,45 @@
+{
+  "bot-account": {
+    "username": "pupsik",
+    "password": "",
+    "type": "false"
+  },
+
+  "server": {
+    "ip": "game1.falixserver.net",
+    "port": 21255,
+    "version": "1.19.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
